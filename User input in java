@@ -1,0 +1,30 @@
+import java.util.Scanner;
+
+public class Main
+{
+	public static void main(String[] args)
+	{
+	    int a=18;
+        
+        int b=6;
+        
+        Scanner sc = new Scanner(System.in);
+        
+        float avg=sc.nextFloat();//float input
+        
+        int age=sc.nextInt();//integer input 
+        
+       // String s;
+        
+        String s=sc.nextLine();
+        
+        
+        System.out.println(s);
+		
+        
+        //System.out.println(age);
+		
+		System.out.println(avg);
+		
+	}
+}
