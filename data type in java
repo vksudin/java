@@ -1,0 +1,23 @@
+public class Main
+{
+	public static void main(String[] args)
+	{
+	    //int,float,char,lonng,double,string,boolean
+	    
+		int age=18;
+		
+		
+		float average=15.7f;
+		
+		char p='A';
+		
+		String s="Sudin";
+		
+		System.out.println(average);
+		
+		System.out.println(s);
+		
+		System.out.println(age);
+		
+	}
+}
